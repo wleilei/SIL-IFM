@@ -1,4 +1,4 @@
-# Subgraph Invariant Learning towards Large-scale Graph Node Classification
+# Subgraph Invariant Learning towards Large-scale Graph Node Classification (AAAI 2025)
 
 # Getting Started 
 ```
