@@ -1,4 +1,4 @@
-# Subgraph Invariant Learning towards Large-Scale Graph Node Classification [(AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/35412)
+# Subgraph Invariant Learning Towards Large-Scale Graph Node Classification [(AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/35412)
 
 # Getting Started 
 ```
